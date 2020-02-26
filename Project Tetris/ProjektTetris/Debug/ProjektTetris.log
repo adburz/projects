@@ -1,0 +1,35 @@
+﻿  Game.cpp
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(24,10): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(25,10): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(76,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(76,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(77,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(77,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(132,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(135,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Game.cpp(187,67): warning C4305: '=': truncation from 'double' to 'float'
+  ProjektTetris.vcxproj -> C:\Users\Adam\Desktop\PK3_REPO\PK3_Projekt\ProjektTetris\Debug\ProjektTetris.exe

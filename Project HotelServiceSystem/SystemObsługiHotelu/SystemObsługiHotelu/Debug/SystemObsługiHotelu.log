@@ -1,0 +1,3 @@
+﻿  Main.c
+d:\adam\studia\sem 2\ppk\repo\projekt\systemobsługihotelu\systemobsługihotelu\main.c(13): warning C4013: '_CrtDumpMemoryLeaks' undefined; assuming extern returning int
+  SystemObsługiHotelu.vcxproj -> D:\Adam\STUDIA\SEM 2\ppk\REPO\Projekt\SystemObsługiHotelu\Debug\SystemObsługiHotelu.exe
