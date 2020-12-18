@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.polsl.lab.controller.ProgramTypeController">
+
+   <children>
+      <Label layoutX="125.0" layoutY="57.0" text="What would you like to do?" />
+      <Button fx:id="registerModuleButton" layoutX="152.0" layoutY="97.0" mnemonicParsing="false" onAction="#registerModuleButton_click" text="Make a register" />
+      <Button fx:id="checkRegistrationModuleButton" layoutX="145.0" layoutY="145.0" mnemonicParsing="false" onAction="#checkRegistrationModuleButton_click" text="Check registration" />
+      <Button fx:id="patientsNumber" layoutX="116.0" layoutY="200.0" mnemonicParsing="false" onAction="#setPatientsNumber_click" text="Number of patients in queue" />
+      <Button fx:id="closeButton" layoutX="179.0" layoutY="304.0" mnemonicParsing="false" onAction="#setCloseButton_click" text="Close" />
+   </children>
+</AnchorPane>

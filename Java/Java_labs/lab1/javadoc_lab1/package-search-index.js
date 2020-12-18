@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.lab.patients"},{"l":"pl.polsl.lab.patients.controller"},{"l":"pl.polsl.lab.patients.exceptions"},{"l":"pl.polsl.lab.patients.model"},{"l":"pl.polsl.lab.patients.view"}];updateSearchResults();

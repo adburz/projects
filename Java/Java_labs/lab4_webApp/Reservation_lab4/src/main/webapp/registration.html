@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css" />
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <title>Registration</title>
+</head>
+<body class="body">
+
+        <h1 style="color: wheat">
+            REGISTRATION
+        </h1>
+
+        <p> First name:</p>
+        <form method="GET">
+            <input type="text" id="firstName" name="comment" />
+        </form>
+
+        <p> Last name:</p>
+        <form method="GET">
+            <input type="text" id="lastName" name="lastName" />
+        </form>
+
+        <p> PESEL:</p>
+        <form method="GET">
+            <input type="text" id="pesel" name="pesel" />
+        </form>
+
+        <p> Phone number:</p>
+        <form method="GET">
+            <input type="tel" id="phoneNumber" name="phoneNumber" />
+        </form>
+
+        <p> Choose doctor:</p>
+        <form method="GET">
+            <select id = "doctor" name="doctor">
+                <option value="1" selected="selected">Dr Adam Smith - laryngologist</option>
+                <option value="2">Dr Will Johnson - orthopedist</option>
+                <option value="3">Dr Thomas Williams - iternist</option>
+            </select>
+        </form>
+
+        <br/>
+
+        <div style="margin: 0">
+            <input onclick="tryRegistration('firstName', 'lastName', 'pesel', 'phoneNumber',  'doctor')" type="submit" value="Register">
+            <br/><br/>
+            <input onclick="openStartPage()" type="submit" value="Get back">
+        </div>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+module:ReservationService
+pl.polsl.lab
+pl.polsl.lab.controller
+pl.polsl.lab.exceptions
+pl.polsl.lab.model
+pl.polsl.lab.tests
+pl.polsl.lab.utils
+pl.polsl.lab.view

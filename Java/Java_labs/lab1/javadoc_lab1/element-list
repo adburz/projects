@@ -1,0 +1,5 @@
+pl.polsl.lab.patients
+pl.polsl.lab.patients.controller
+pl.polsl.lab.patients.exceptions
+pl.polsl.lab.patients.model
+pl.polsl.lab.patients.view

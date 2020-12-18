@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.polsl.lab.controller.RegistrationController">
+   <children>
+       <Label alignment="CENTER" contentDisplay="CENTER" layoutX="169.0" layoutY="28.0" text="Enter name:" />
+       <Button fx:id="closeButton" alignment="CENTER" contentDisplay="CENTER" layoutX="14.0" layoutY="16.0" mnemonicParsing="false" onAction="#toMainMenuButton_click" text="To main menu" />
+      <RadioButton fx:id="SmithRadioButton" layoutX="117.0" layoutY="269.0" mnemonicParsing="false" selected="true" text="Adam Smith - laryngologist">
+         <toggleGroup>
+            <ToggleGroup fx:id="toggleGroup" />
+         </toggleGroup></RadioButton>
+      <RadioButton fx:id="JohnsonRadioButton" layoutX="116.0" layoutY="293.0" mnemonicParsing="false" text="Dr Will Johnson - orthopedist" toggleGroup="$toggleGroup" />
+      <RadioButton fx:id="WilliamsRadioButton" layoutX="117.0" layoutY="317.0" mnemonicParsing="false" text="Dr Thomas Williams - internist" toggleGroup="$toggleGroup" />
+      <TextField fx:id="nameTextField" layoutX="126.0" layoutY="45.0" />
+      <TextField fx:id="lastNameTextField" layoutX="126.0" layoutY="97.0" />
+      <TextField fx:id="peselTextField" layoutX="126.0" layoutY="146.0" />
+      <TextField fx:id="phoneNumberTextField" layoutX="126.0" layoutY="200.0" />
+      <Label layoutX="158.0" layoutY="80.0" text="Enter last name:" />
+      <Label layoutX="145.0" layoutY="183.0" text="Enter phone number:" />
+      <Label layoutX="168.0" layoutY="129.0" text="Enter PESEL:" />
+      <Label layoutX="161.0" layoutY="252.0" text="Choose doctor:" />
+      <Button fx:id="registerButton" layoutX="174.0" layoutY="361.0" mnemonicParsing="false" onAction="#registerButton_click" text="Register" />
+   </children>
+</AnchorPane>

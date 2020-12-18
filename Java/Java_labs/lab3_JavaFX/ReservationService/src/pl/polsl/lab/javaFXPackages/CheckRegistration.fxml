@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.polsl.lab.controller.CheckRegistrationController">
+   <children>
+      <Label layoutX="132.0" layoutY="47.0" text="Enter your registration ID:" />
+      <TextField fx:id="idTextField" layoutX="126.0" layoutY="72.0" />
+      <Button fx:id="FindButton" layoutX="181.0" layoutY="107.0" mnemonicParsing="false" onAction="#FindButton_click" text="Find" />
+      <TextArea fx:id="textArea" layoutX="101.0" layoutY="150.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button fx:id="toMainMenuButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#toMainMenuButton_click" text="To main menu" />
+   </children>
+</AnchorPane>

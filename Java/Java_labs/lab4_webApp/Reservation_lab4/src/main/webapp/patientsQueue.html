@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css" />
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <title>Queue</title>
+</head>
+<body class="body" onload="loadCookies()">
+
+<input onclick="openStartPage()" type="submit" value="Get back">
+
+<p>Choose your doctor:</p>
+<div style="margin: 5px">
+    <input onclick="loadPatientsTable('smith')" type="submit" value="Dr Smith">
+    <input onclick="loadPatientsTable('johnson')" type="submit" value="Dr Johnson">
+    <input onclick="loadPatientsTable('williams')" type="submit" value="Dr Williams">
+</div>
+
+<table class="content-table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Last name</th>
+        <th>Phone number</th>
+    </tr>
+    </thead>
+    <tbody id="patientTable">
+
+    </tbody>
+</table>
+
+</body>
+</html>

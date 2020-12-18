@@ -1,0 +1,118 @@
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
+    <style>
+        ul.a{
+            list-style-type: circle;
+        }
+       body {
+            background-color: #4ABB25;
+       }
+        th {
+            text-align: left;
+            vertical-align: top;
+        }
+        #table
+        {
+            padding: 2%;
+            background-color: #a3fff3;
+            border-radius: 25px;
+        }
+        #sender {
+            height: 3%;
+        }
+        #photo {
+            width: 40%;
+        }
+        #gifts {
+            width: 100%;
+            height: 75%;
+            overflow: auto;
+        }
+        .rotate90 {
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
+            width: 70px;
+            height: 70px;
+        }
+
+    </style>
+</head>
+<body onload="load()">
+<table id="table" border="0px" width="100%" height="100%">
+    <tr>
+        <th width="60%">
+            <div id="sender" style="text-shadow: 3px 3px 10px grey; color: black; ">
+                Senders location:
+            </div>
+            <div>
+                <h2 style="text-shadow: 3px 3px 10px grey; color: black; ">
+                    Presents list:
+                </h2>
+            </div>
+            <div id="gifts">
+                <ul id="wishList" class="a">
+                </ul>
+            </div>
+        </th>
+        <th width="40%" style="overflow: auto">
+            <div style="border-left: 1px solid black; height:100%">
+                <div style="text-align: right;">
+                    <img id="photo" class="rotate90"/>
+                </div>
+                <div style="padding-left:10px;padding-top:10px">
+                    <h1 style="text-shadow: 3px 3px 10px grey; color: black; ">
+                        Santa Claus
+                    </h1>
+                </div>
+            </div>
+        </th>
+    </tr>
+</table>
+</body>
+<script type="text/javascript">
+
+     function load(){
+        loadPhoto();
+        loadPresents();
+        addLocation();
+    }
+
+    function loadPhoto(){
+        document.getElementById("photo").src = CardActivity.getPhotoPath();
+    }
+
+    function loadPresents()
+    {
+        document.getElementById("wishList").innerHTML = "";
+        var wishes = CardActivity.getPresentString().split(";");
+        wishes.forEach(
+        function(wish){
+            var li = document.createElement("li");
+            li.innerHTML = wish;
+            document.getElementById("wishList").appendChild(li);
+        });
+    }
+
+    function addLocation() {
+        if(CardActivity.isLocationAviable()){
+                var li = document.createElement("span");
+                li.innerHTML = CardActivity.getLongitude() + ", ";
+                document.getElementById("sender").appendChild(li);
+
+                var lii = document.createElement("span");
+                lii.innerHTML = CardActivity.getLatitude();
+                document.getElementById("sender").appendChild(lii);
+        } else {
+            var li = document.createElement("SPAN");
+            li.innerHTML = "Can't specify.";
+            document.getElementById("sender").appendChild(li);
+        }
+    }
+
+
+</script>
+</html>

@@ -1,0 +1,96 @@
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
+    <style>
+                body {
+                    text-align: center;
+                    background-color: #4ABB25;
+                }
+                div {
+                      margin-top: 5px;
+                      border-radius: 25px;
+                }
+                ul.a {
+                    list-style-type: circle;
+                }
+                button {
+                    border-radius: 25px;
+                    background-color: #4ABB25;
+                    color: white;
+                    border: 0px;
+                    padding: 7px 23px;
+                }
+                #table {
+                    width: 100%;
+                    height: 75%;
+                    background-color: #a3fff3;
+                    border-radius: 25px;
+                }
+                #th1 {
+                    padding: 5px;
+                    text-align: left;
+                    width: 75%;
+                }
+                #th2 {
+                    padding: 15px;
+                    width: 25%;
+                    align-content: center;
+                }
+                #gifts {
+                    width: 100%;
+                    height: 100%;
+                    overflow: auto
+                }
+        </style>
+</head>
+<body >
+    <h1 style="color: #8be0d9; text-shadow: 5px 5px 10px black;">
+        List of gifts for a polite student
+    </h1>
+    <table id="table">
+        <tr>
+            <th id="th1">
+                <div id="gifts">
+                    <h2 style="text-shadow: 3px 3px 10px black; color: #34eb9e; -webkit-text-stroke: 0.5px black;">
+                        Presents list:
+                    </h2>
+                    <ul id="wishList" class="a">
+                    </ul>
+                </div>
+            </th>
+            <th id="th2">
+                <div>
+                    <button onclick="addNewPresent()">Add present</button>
+                </div>
+                <div>
+                    <button onclick="generateCard()">Generate letter</button><br>
+                </div>
+            </th>
+        </tr>
+    </table>
+<script type="text/javascript">
+            function generateCard()
+            {
+                PresentsActivity.dispatchTakePictureIntent();
+            }
+
+            function addNewPresent()
+            {
+                PresentsActivity.addPresent();
+            }
+
+            function loadPresents()
+            {
+                document.getElementById("wishList").innerHTML = "";
+                var wishes = PresentsActivity.getPresentString().split(";");
+                wishes.forEach(
+                function(wish){
+                  var li = document.createElement("li");
+                    li.innerHTML = wish;
+                    document.getElementById("wishList").appendChild(li);
+                });
+            }
+
+</script>
+</body>
+</html>

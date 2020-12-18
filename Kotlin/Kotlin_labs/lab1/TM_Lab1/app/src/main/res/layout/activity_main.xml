@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFF0"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/Im2_editTextNumberUnsigned"
+        android:layout_width="0dp"
+        android:layout_height="49dp"
+        android:layout_marginEnd="44dp"
+        android:ems="10"
+        android:hint="Im"
+        android:inputType="numberDecimal"
+        app:layout_constraintBaseline_toBaselineOf="@+id/Re2_editTextNumberUnsigned"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/Re2_editTextNumberUnsigned" />
+
+    <EditText
+        android:id="@+id/Re1_editTextNumberUnsigned"
+        android:layout_width="0dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="52dp"
+        android:ems="10"
+        android:hint="Re"
+        android:inputType="numberDecimal"
+        app:layout_constraintBottom_toBottomOf="@+id/B_textView"
+        app:layout_constraintEnd_toStartOf="@+id/Im1_editTextNumberUnsigned"
+        app:layout_constraintStart_toEndOf="@+id/A_textView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/Im1_editTextNumberUnsigned"
+        android:layout_width="0dp"
+        android:layout_height="49dp"
+        android:layout_marginEnd="44dp"
+        android:ems="10"
+        android:hint="Im"
+        android:inputType="numberDecimal"
+        app:layout_constraintBaseline_toBaselineOf="@+id/Re1_editTextNumberUnsigned"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/Re1_editTextNumberUnsigned" />
+
+    <TextView
+        android:id="@+id/B_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="50dp"
+        android:text="B:"
+        android:textColor="#ff00ff"
+        app:layout_constraintEnd_toStartOf="@+id/Re2_editTextNumberUnsigned"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/A_textView" />
+
+    <Button
+        android:id="@+id/minusButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="288dp"
+        android:layout_marginEnd="43dp"
+        android:backgroundTint="#DC143C"
+        android:text="-"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/Im2_editTextNumberUnsigned"
+        app:layout_constraintTop_toTopOf="parent"
+        app:rippleColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/plusButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="31dp"
+        android:backgroundTint="#DC143C"
+        android:text="+"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/spinner"
+        app:layout_constraintTop_toBottomOf="@+id/spinner" />
+
+    <TextView
+        android:id="@+id/A_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="76dp"
+        android:layout_marginEnd="49dp"
+        android:text="A:"
+        android:textColor="#FF00FF"
+        app:layout_constraintEnd_toStartOf="@+id/Re1_editTextNumberUnsigned"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="0dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginBottom="31dp"
+        android:spinnerMode="dropdown"
+        app:layout_constraintBottom_toTopOf="@+id/minusButton"
+        app:layout_constraintEnd_toEndOf="@+id/minusButton"
+        app:layout_constraintStart_toStartOf="@+id/Re2_editTextNumberUnsigned"
+        app:layout_constraintTop_toBottomOf="@+id/Im2_editTextNumberUnsigned" />
+
+    <EditText
+        android:id="@+id/Re2_editTextNumberUnsigned"
+        android:layout_width="0dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="33dp"
+        android:layout_marginEnd="28dp"
+        android:ems="10"
+        android:hint="Re"
+        android:inputType="numberDecimal"
+        app:layout_constraintEnd_toStartOf="@+id/Im2_editTextNumberUnsigned"
+        app:layout_constraintStart_toEndOf="@+id/B_textView"
+        app:layout_constraintTop_toBottomOf="@+id/Re1_editTextNumberUnsigned" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

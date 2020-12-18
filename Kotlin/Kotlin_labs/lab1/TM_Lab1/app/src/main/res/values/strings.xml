@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdamBurzynski</string>
+    <string-array name="symbols">
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+</resources>
