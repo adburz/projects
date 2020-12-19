@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfHire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hire>
+    <DateFrom>2020-06-12T16:23:42.1704658+02:00</DateFrom>
+    <DateUntil>2020-06-12T16:24:12.1704658+02:00</DateUntil>
+    <ISBN>9789462214521</ISBN>
+    <HireID>1</HireID>
+    <ItemID>9</ItemID>
+    <UserID>2</UserID>
+    <isExpired>true</isExpired>
+    <Penalty>0</Penalty>
+  </Hire>
+  <Hire>
+    <DateFrom>2020-06-12T16:23:45.2989723+02:00</DateFrom>
+    <DateUntil>2020-06-12T16:24:15.2979699+02:00</DateUntil>
+    <ISBN>9785422033911</ISBN>
+    <HireID>2</HireID>
+    <ItemID>10</ItemID>
+    <UserID>2</UserID>
+    <isExpired>true</isExpired>
+    <Penalty>0</Penalty>
+  </Hire>
+</ArrayOfHire>

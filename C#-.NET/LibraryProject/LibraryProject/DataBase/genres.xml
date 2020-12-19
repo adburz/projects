@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfGenre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Genre>
+    <GenreID>1</GenreID>
+    <Name>Opowiadanie/a</Name>
+  </Genre>
+  <Genre>
+    <GenreID>2</GenreID>
+    <Name>Powieść Historyczna</Name>
+  </Genre>
+  <Genre>
+    <GenreID>3</GenreID>
+    <Name>Nowa3</Name>
+  </Genre>
+  <Genre>
+    <GenreID>4</GenreID>
+    <Name>Nowa1</Name>
+  </Genre>
+  <Genre>
+    <GenreID>5</GenreID>
+    <Name>Nowa2</Name>
+  </Genre>
+  <Genre>
+    <GenreID>6</GenreID>
+    <Name>nowyPawel</Name>
+  </Genre>
+  <Genre>
+    <GenreID>7</GenreID>
+    <Name>asd</Name>
+  </Genre>
+  <Genre>
+    <GenreID>8</GenreID>
+    <Name>fsdfs</Name>
+  </Genre>
+  <Genre>
+    <GenreID>9</GenreID>
+    <Name>aa</Name>
+  </Genre>
+  <Genre>
+    <GenreID>10</GenreID>
+    <Name>bhng </Name>
+  </Genre>
+  <Genre>
+    <GenreID>11</GenreID>
+    <Name>tajmer</Name>
+  </Genre>
+  <Genre>
+    <GenreID>12</GenreID>
+    <Name>literacki</Name>
+  </Genre>
+</ArrayOfGenre>

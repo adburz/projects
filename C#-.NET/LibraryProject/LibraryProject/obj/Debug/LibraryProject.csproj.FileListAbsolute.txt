@@ -1,0 +1,148 @@
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\RegisterWindow.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\App.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject_MarkupCompile.cache
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject_MarkupCompile.lref
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\RegisterWindow.baml
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.g.resources
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\NewUser.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\NewUser.baml
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\Authentication.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\Authentication.baml
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Admin_LibraryMainWindow.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Admin_LibraryMainWindow.baml
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\User_LibraryMainWindow.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\User_LibraryMainWindow.baml
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Users_MainWindow.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Users_MainWindow.baml
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Shelfs_MainWindow.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Shelfs_MainWindow.baml
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\borrowersView_AdminWindow.g.cs
+E:\FORMAT_BACKUP\FORMAT\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\borrowersView_AdminWindow.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\Authentication.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\RegisterWindow.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\NewUser.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Admin_LibraryMainWindow.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\User_LibraryMainWindow.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\borrowersView_AdminWindow.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Shelfs_MainWindow.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Users_MainWindow.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\App.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject_MarkupCompile.cache
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject_MarkupCompile.lref
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\Authentication.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\RegisterWindow.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\NewUser.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Admin_LibraryMainWindow.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\User_LibraryMainWindow.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\borrowersView_AdminWindow.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Shelfs_MainWindow.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\Users_MainWindow.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.g.resources
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\EntityBookInformation.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\EntityBookInformation.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.dll
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.dll
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\System.Windows.Interactivity.dll
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.xml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.xml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CopyComplete
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\UsersTab\AddUser.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\UsersTab\AddUser.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\UsersTab\ScopeUser.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\UsersTab\ScopeUser.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\CompleteData.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\CompleteData.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\UsersTab\ScopeUser_SendNotification.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\UsersTab\ScopeUser_SendNotification.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddBook_Page.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddEntity.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddMagazine_Page.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddBook_Page.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddEntity.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddMagazine_Page.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\EditItem.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\EditItem_Book.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\EditItem_Magazine.g.cs
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\EditItem.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\EditItem_Book.baml
+D:\OneDrive\POLSL\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Admin\ShelfsTab\EditItem_Magazine.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\Authentication.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\NewUser.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Library_MainWindow.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\EntityBookInformation.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\UserAdmin_Page.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\App.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject_MarkupCompile.cache
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject_MarkupCompile.lref
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.dll
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.dll
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\System.Windows.Interactivity.dll
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.xml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.xml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\Authentication.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\Authentication\NewUser.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\EntityBookInformation.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Library_MainWindow.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\UserAdmin_Page.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.g.resources
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CopyComplete
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\UserClient_Page.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\UserClient_Page.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\HireWindow.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\HireWindow.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\NotificationWindow.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\PopUpWindows\NotificationWindow.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\CompleteData.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Borrow_MainWindow.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\ShelfsTab\AddBook_Page.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\ShelfsTab\AddEntity.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\ShelfsTab\AddMagazine_Page.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Shelfs_MainWindow.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\UsersTab\AddUser.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\UsersTab\ScopeUser.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\UsersTab\ScopeUser_SendNotification.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Users_MainWindow.g.cs
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\CompleteData.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Borrow_MainWindow.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\ShelfsTab\AddBook_Page.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\ShelfsTab\AddEntity.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\ShelfsTab\AddMagazine_Page.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Shelfs_MainWindow.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\UsersTab\AddUser.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\UsersTab\ScopeUser.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\UsersTab\ScopeUser_SendNotification.baml
+E:\OneDrive\OneDrive - Politechnika Śląska\STUDIA\SEM 4\PK4\REPO\Projekt\LibraryProject\LibraryProject\obj\Debug\Windows\LibraryMainWindow\Views\Users_MainWindow.baml

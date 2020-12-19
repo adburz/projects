@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryProject.Classes.Library.ExceptionHandler" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAACEAAAAgACAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\Library\ExceptionHandling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.Library.DataFileManager" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAIAQAAABAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAQ=</HashCode>
+      <FileName>Classes\Library\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.Library.Library" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KACAEABAAAABEQAFQAAEIAECDAAAACgAwAAABAAIAAA=</HashCode>
+      <FileName>Classes\Library\Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.LibraryEntity.Author" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\LibraryEntity\Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.LibraryEntity.Genre" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\LibraryEntity\Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.LibraryEntity.Entity" Collapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEAAgAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\LibraryEntity\LibraryEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.LibraryEntity.Book" Collapsed="true">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAwAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Classes\LibraryEntity\LibraryEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.LibraryEntity.Magazine" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\LibraryEntity\LibraryEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.UserClass.User" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAECAgAAAAEgAAQAwABAAAAAACAAAQQAAAAAA=</HashCode>
+      <FileName>Classes\User\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.UserClass.Notification" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Classes\User\UserMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Main" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Classes\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Authentication" Collapsed="true">
+    <Position X="2.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Authentication\Authentication.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.NewUser" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Windows\Authentication\NewUser.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Admin_LibraryMainWindow" Collapsed="true">
+    <Position X="5.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAASAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Admin_LibraryMainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.User_LibraryMainWindow" Collapsed="true">
+    <Position X="8.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\User_LibraryMainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.borrowersView_AdminWindow" Collapsed="true">
+    <Position X="11" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\borrowersView_AdminWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.CompleteData" Collapsed="true">
+    <Position X="8.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAEBAAAAAACEAAIAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\CompleteData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.Shelfs_MainWindow" Collapsed="true">
+    <Position X="2.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEQAAQgABAAAAAAASAAAEAABIABEAAACACAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\Shelfs_MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.Users_MainWindow" Collapsed="true">
+    <Position X="6.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAIAAAAAAAoAAAAIAAACAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\Users_MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.UsersTab.AddUser" Collapsed="true">
+    <Position X="6.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\UsersTab\AddUser.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.UsersTab.ScopeUser" Collapsed="true">
+    <Position X="5.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAACAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\UsersTab\ScopeUser.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.UsersTab.ScopeUser_SendNotification" Collapsed="true">
+    <Position X="7.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\UsersTab\ScopeUser_SendNotification.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.ShelfsTab.AddBook_Page" Collapsed="true">
+    <Position X="1.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddBook_Page.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.ShelfsTab.AddEntity" Collapsed="true">
+    <Position X="2.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddEntity.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.ShelfsTab.AddMagazine_Page" Collapsed="true">
+    <Position X="3.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\ShelfsTab\AddMagazine_Page.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryProject.Classes.Rents.Rent" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Rents\Rent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryProject.Classes.Rents.Hire" Collapsed="true">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAAAAAACAAAgAAAAAgAAAAAAAABAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\Rents\Hire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LibraryProject.Classes.UserClass.ERole">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>Classes\User\User.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LibraryProject.Windows.LibraryMainWindow.ETab" Collapsed="true">
+    <Position X="5.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Admin_LibraryMainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LibraryProject.Windows.LibraryMainWindow.Views.Admin.EContentType" Collapsed="true">
+    <Position X="2.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\LibraryMainWindow\Views\Admin\Shelfs_MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<ArrayOfEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entity xsi:type="Book">
+    <EntityID>1</EntityID>
+    <Title>Szafa</Title>
+    <ISBN>1712277311768</ISBN>
+    <IsRented>false</IsRented>
+    <AuthorID>1</AuthorID>
+    <GenreID>1</GenreID>
+    <AuthorS>Olga Tokarczuk</AuthorS>
+    <GenreS>Opowiadanie/a</GenreS>
+  </Entity>
+  <Entity xsi:type="Magazine">
+    <EntityID>2</EntityID>
+    <Title>First Magazine</Title>
+    <ISBN>1233332226123</ISBN>
+    <IsRented>false</IsRented>
+    <StockNumber>145</StockNumber>
+  </Entity>
+  <Entity xsi:type="Magazine">
+    <EntityID>3</EntityID>
+    <Title>Second Magazine</Title>
+    <ISBN>1233332226123</ISBN>
+    <IsRented>false</IsRented>
+    <StockNumber>145</StockNumber>
+  </Entity>
+  <Entity xsi:type="Book">
+    <EntityID>4</EntityID>
+    <Title>Quo Vadis</Title>
+    <ISBN>111777711518</ISBN>
+    <IsRented>false</IsRented>
+    <AuthorID>2</AuthorID>
+    <GenreID>2</GenreID>
+    <AuthorS>Henryk Sienkiewicz</AuthorS>
+    <GenreS>Powieść Historyczna</GenreS>
+  </Entity>
+  <Entity xsi:type="Magazine">
+    <EntityID>6</EntityID>
+    <Title>Programista</Title>
+    <ISBN>9780893523008</ISBN>
+    <IsRented>false</IsRented>
+    <StockNumber>1</StockNumber>
+  </Entity>
+  <Entity xsi:type="Book">
+    <EntityID>7</EntityID>
+    <Title>Nowy1</Title>
+    <ISBN>9783507489820</ISBN>
+    <IsRented>false</IsRented>
+    <AuthorID>3</AuthorID>
+    <GenreID>4</GenreID>
+    <AuthorS>Nowy1</AuthorS>
+    <GenreS>Nowa1</GenreS>
+  </Entity>
+  <Entity xsi:type="Magazine">
+    <EntityID>8</EntityID>
+    <Title>Programista</Title>
+    <ISBN>9780275448509</ISBN>
+    <IsRented>false</IsRented>
+    <StockNumber>2</StockNumber>
+  </Entity>
+  <Entity xsi:type="Book">
+    <EntityID>9</EntityID>
+    <Title>Nowy2</Title>
+    <ISBN>9789462214521</ISBN>
+    <IsRented>true</IsRented>
+    <AuthorID>4</AuthorID>
+    <GenreID>5</GenreID>
+    <AuthorS>Nowy2</AuthorS>
+    <GenreS>Nowa2</GenreS>
+  </Entity>
+  <Entity xsi:type="Book">
+    <EntityID>10</EntityID>
+    <Title>Pawel</Title>
+    <ISBN>9785422033911</ISBN>
+    <IsRented>true</IsRented>
+    <AuthorID>5</AuthorID>
+    <GenreID>6</GenreID>
+    <AuthorS>Pawel Po</AuthorS>
+    <GenreS>nowyPawel</GenreS>
+  </Entity>
+  <Entity xsi:type="Book">
+    <EntityID>16</EntityID>
+    <Title>ddasd</Title>
+    <ISBN>9782838504103</ISBN>
+    <IsRented>false</IsRented>
+    <AuthorID>12</AuthorID>
+    <GenreID>12</GenreID>
+    <AuthorS>testowy autor</AuthorS>
+    <GenreS>literacki</GenreS>
+  </Entity>
+</ArrayOfEntity>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Role>Admin</Role>
+    <Notifications />
+    <SRole>Admin</SRole>
+    <Login>qwe</Login>
+    <Password>123</Password>
+    <Name>Adam</Name>
+    <Surname>Słowik</Surname>
+    <Pesel>84011596756</Pesel>
+    <Email>ada@gmail.com</Email>
+    <HireCount>0</HireCount>
+    <ExpiredCount>0</ExpiredCount>
+    <UserID>1</UserID>
+    <PhoneNumber>empty</PhoneNumber>
+  </User>
+  <User>
+    <Role>Client</Role>
+    <Notifications />
+    <SRole>Client</SRole>
+    <Login>asd</Login>
+    <Password>123</Password>
+    <Name>Jarosław</Name>
+    <Surname>Kot</Surname>
+    <Pesel>98061655523</Pesel>
+    <Email>jekot@gmail.com</Email>
+    <HireCount>3</HireCount>
+    <ExpiredCount>2</ExpiredCount>
+    <UserID>2</UserID>
+    <PhoneNumber>12312312312</PhoneNumber>
+  </User>
+  <User>
+    <Role>Client</Role>
+    <Notifications>
+      <Notification>
+        <Message>tej siema</Message>
+        <time>2020-06-06T15:19:51.759003+02:00</time>
+      </Notification>
+    </Notifications>
+    <SRole>Client</SRole>
+    <Login>zxc</Login>
+    <Password>123</Password>
+    <Name>Michał</Name>
+    <Surname>Góral</Surname>
+    <Pesel>99061655544</Pesel>
+    <Email>mgoral@gmail.com</Email>
+    <HireCount>0</HireCount>
+    <ExpiredCount>0</ExpiredCount>
+    <UserID>3</UserID>
+    <PhoneNumber>empty</PhoneNumber>
+  </User>
+  <User>
+    <Role>Client</Role>
+    <Notifications>
+      <Notification>
+        <Message>Testowa wiadomosc</Message>
+        <time>2020-06-10T11:59:43.0656309+02:00</time>
+      </Notification>
+    </Notifications>
+    <SRole>Client</SRole>
+    <Login>tymon</Login>
+    <Password>123</Password>
+    <Name>Tymek</Name>
+    <Surname>Czesc</Surname>
+    <Pesel>99062517218</Pesel>
+    <Email>empty</Email>
+    <HireCount>0</HireCount>
+    <ExpiredCount>0</ExpiredCount>
+    <UserID>4</UserID>
+    <PhoneNumber>empty</PhoneNumber>
+  </User>
+</ArrayOfUser>

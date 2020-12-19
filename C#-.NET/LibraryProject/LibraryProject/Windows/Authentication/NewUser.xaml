@@ -1,0 +1,54 @@
+﻿<Window x:Class="LibraryProject.NewUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryProject"
+        mc:Ignorable="d"
+        Height="191.605" Width="418.108" Padding="2,2,2,2" Background="White"
+        Closing="NewUserWindow_Closing"
+        Title="Register">
+    <Border Padding="10">
+        
+        <StackPanel>
+            <!-- Login -->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Margin ="5 5 5 0" Grid.Column="0" Grid.Row="0" >
+                    <Label  Content="Login" HorizontalAlignment="Center"/>
+                    <TextBox TabIndex="0" x:Name="loginTextBox"   TextChanged="login_TextChanged"/>
+                        <!-- login enable or not-->
+                </StackPanel>
+
+                <TextBlock x:Name="ifLoginIsOpen" Margin="10 0" Grid.Row="0"  Grid.Column="1"  VerticalAlignment="Bottom"/>
+
+                <!-- Password-->
+
+                <StackPanel Margin="5 5 5 0" Grid.Row="1">
+                    <Label Content="Password" HorizontalAlignment="Center" />
+                    <Grid>
+                        <PasswordBox TabIndex="1" x:Name="Password_PasswordBox" />
+                        <TextBox x:Name="Password_TextBox" Visibility="Hidden"/>
+                    </Grid>
+                </StackPanel>
+                <!-- Show password checkbox-->
+                <CheckBox x:Name="showPassCheckBox" Content="Show password." Checked="checkBox_Checked" Unchecked="checkBox_Checked" Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom" Margin="10 0 0 0 "/>
+                
+                <!-- Register button-->
+                <Button x:Name="registerButton" Margin="50 10 50 0" Grid.Row ="2" Grid.Column="0"
+                        Click="registerButton_Click" Content="Register" VerticalAlignment="Bottom" IsEnabled="False"/>
+ 
+            </Grid>
+        </StackPanel>
+        
+    </Border>
+</Window>

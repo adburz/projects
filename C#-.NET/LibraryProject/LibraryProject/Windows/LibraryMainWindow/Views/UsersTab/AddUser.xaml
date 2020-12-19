@@ -1,0 +1,54 @@
+﻿<Window x:Class="LibraryProject.Windows.LibraryMainWindow.Views.Admin.UsersTab.AddUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryProject.Windows.LibraryMainWindow.Views.Admin.UsersTab"
+        mc:Ignorable="d"
+        Title="AddUser" Height="240" Width="360">
+
+
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <!-- Login -->
+        <StackPanel Grid.Row="0" Margin="0 0 20 0" >
+            <Label  Content="Enter login:" />
+            <TextBox x:Name="Login_TextBlock" TextChanged="Login_TextChanged"/>
+            <Label  Content="Enter password:" />
+            <Grid>
+                <PasswordBox x:Name="Password_PasswordBox" />
+                <TextBox x:Name="Password_TextBox" Visibility="Hidden"/>
+            </Grid>
+            <CheckBox x:Name="ShowPassword_CheckBox" Content="Show password" Checked="ShowPassword_Changed" Unchecked="ShowPassword_Changed" Margin="4"/>
+        </StackPanel>
+        <!-- Password -->
+        <StackPanel Grid.Row="1" >
+
+        </StackPanel>
+        <!-- Role -->
+        <StackPanel  Grid.Row="0" Grid.Column="1">
+            <Label x:Name="IsLoginEnable_Label" Content="" Margin="0 18 0 0"/>
+            <Label  Content="Choose role:" FontSize="13"/>
+            <!-- Admin/Client radiobox -->
+            <RadioButton  Content="Admin"/>
+            <RadioButton x:Name="Client_RadioButton" Content="Client" IsChecked="True"/>
+        </StackPanel>
+        <TextBlock TextWrapping="Wrap" FontSize="13"  FontStyle="Italic" VerticalAlignment="Center" Grid.Row="3" >
+            Logging for the first time, 
+            the newly added user will have to enter his private data such as pesel or phone number.
+        </TextBlock>
+        <!-- Confirm  -->
+        <Button Margin="18" Grid.Row="1" Grid.Column="1" IsEnabled="False"
+                x:Name="RegisterButton" Click="RegisterButton_Click" Content="Register new user!" FontSize="14"/>
+    </Grid>
+
+
+
+</Window>

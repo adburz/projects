@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <Name>Olga Tokarczuk</Name>
+    <AuthorID>1</AuthorID>
+  </Author>
+  <Author>
+    <Name>Henryk Sienkiewicz</Name>
+    <AuthorID>2</AuthorID>
+  </Author>
+  <Author>
+    <Name>Nowy1</Name>
+    <AuthorID>3</AuthorID>
+  </Author>
+  <Author>
+    <Name>Nowy2</Name>
+    <AuthorID>4</AuthorID>
+  </Author>
+  <Author>
+    <Name>Pawel Po</Name>
+    <AuthorID>5</AuthorID>
+  </Author>
+  <Author>
+    <Name>asd f</Name>
+    <AuthorID>6</AuthorID>
+  </Author>
+  <Author>
+    <Name>gffsdfs</Name>
+    <AuthorID>7</AuthorID>
+  </Author>
+  <Author>
+    <Name>asd</Name>
+    <AuthorID>8</AuthorID>
+  </Author>
+  <Author>
+    <Name>aa</Name>
+    <AuthorID>9</AuthorID>
+  </Author>
+  <Author>
+    <Name>bhvgj </Name>
+    <AuthorID>10</AuthorID>
+  </Author>
+  <Author>
+    <Name>Adam Tsznol</Name>
+    <AuthorID>11</AuthorID>
+  </Author>
+  <Author>
+    <Name>testowy autor</Name>
+    <AuthorID>12</AuthorID>
+  </Author>
+</ArrayOfAuthor>

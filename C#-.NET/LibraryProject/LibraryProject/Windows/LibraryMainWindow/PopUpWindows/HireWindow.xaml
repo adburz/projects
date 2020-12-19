@@ -1,0 +1,38 @@
+﻿<Window x:Class="LibraryProject.Windows.LibraryMainWindow.PopUpWindows.HireWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryProject.Windows.LibraryMainWindow.PopUpWindows"
+        mc:Ignorable="d"
+        Title="Hire" Height="350" Width="250"
+        WindowStartupLocation="CenterScreen">
+    <Border Background="White">
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="0.4*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Let's hire it up!" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" TextDecorations="Underline"/>
+
+            <TextBlock Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                Are you sure to hire it? 
+            </TextBlock>
+            <TextBlock  Grid.Row="2" x:Name="ItemDetails_TextBlock" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap"/>
+
+            <TextBlock x:Name="Info_TextBlock" Grid.Row="3" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10"> 
+                For now you are reserving the item. After receiving it, you have <Bold>one month</Bold> to return. 
+                You can get it from our getting point whenever you want.
+                For each day of delay we charge a fine.
+            </TextBlock>
+
+            <Button x:Name="Reserve_Button" Content="Reserve it!" Click="ReserveItem_Click" Grid.Row="4" Margin="10"/>
+        </Grid>
+    </Border>
+    
+</Window>
