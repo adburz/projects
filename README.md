@@ -1,3 +1,3 @@
 # PROJECTS  
 
-_A space for my own projects._
+_Repository for my projects from studies._
